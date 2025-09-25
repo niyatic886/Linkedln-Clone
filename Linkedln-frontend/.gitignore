@@ -8,6 +8,7 @@ Linkedln-backend/node_modules
 Linkedln-backend/dist
 Linkedln-backend/.env*.local
 Linkedln-backend/config.env
+Linkedln-backend/connection.js
 
 # Logs
 logs
